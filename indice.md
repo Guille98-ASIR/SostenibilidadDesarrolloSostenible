@@ -1,4 +1,4 @@
-# INDICE
+# ÍNDICE
 
 1.1. Introducción
 
