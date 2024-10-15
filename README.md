@@ -13,7 +13,7 @@
 
 1.6.- ![Evaluación del desempeño en sostenibilidad de las empresas](Evaluacion.md)
 
-Conclusiones
+![Conclusiones](conclusiones.md)
 
 Mapa conceptual (Herramientas utilizada)
 
