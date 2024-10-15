@@ -3,7 +3,7 @@
  
 1.1. ![Introducción](Introduccion.md)
 
-1.2. Sostenibilidad y desarrollo sostenible
+1.2. ![Sostenibilidad y desarrollo sostenible](SostenibilidadyDesarolloSostenible.md)
 
 1.3. ¿Qué significa la sigla ASG?
 
