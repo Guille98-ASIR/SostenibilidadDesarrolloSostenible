@@ -21,3 +21,9 @@
   -Acceso a Nuevos Mercados: La sostenibilidad abre oportunidades comerciales y alianzas estratégicas.
   
   -Mejor Rendimiento Financiero: Las empresas que gestionan proactivamente los riesgos y oportunidades ESG suelen tener mejores resultados a largo plazo.
+
+  ## **3. ¿Qué relación hay entre PRI y los criterios ASG?**
+
+  -PRI (Principios para la Inversión Responsable): Iniciativa que promueve la integración de criterios ESG en las decisiones de inversión, con más de 5,000 entidades adheridas que gestionan aproximadamente      121 billones de dólares en activos.
+  
+  -Fomento de Inversiones Sostenibles: Los PRI ayudan a inversores a adoptar prácticas responsables, contribuyendo a la transparencia y al rendimiento de las empresas en cuestiones ASG.
