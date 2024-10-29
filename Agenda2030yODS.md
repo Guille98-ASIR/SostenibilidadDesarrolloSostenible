@@ -37,3 +37,6 @@ La adopción de la Agenda 2030 para el Desarrollo Sostenible por parte de la Asa
 ## **Conclusión**
 
 La Agenda 2030 establece un marco integral para el desarrollo sostenible, invitando a la cooperación y el compromiso de todos los países para abordar los desafíos globales de manera conjunta y efectiva.
+
+![ods](/img/ODS.png)
+
