@@ -17,7 +17,7 @@
 
 ![Mapa conceptual](MapaConceptual.md) (Herramientas utilizadas)
 
-Glosario (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
+![Glosario](Glosario.md) (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
 
 Referencias
 
