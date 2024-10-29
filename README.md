@@ -15,7 +15,7 @@
 
 ![Conclusiones](conclusiones.md)
 
-Mapa conceptual (Herramientas utilizada)
+![Mapa conceptual](MapaConceptual.md) (Herramientas utilizadas)
 
 Glosario (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
 
