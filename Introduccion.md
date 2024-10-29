@@ -8,4 +8,4 @@ consistiendo en :
 
 ## Sostenibilidad Ambiental-------Sostenibilidad Social-------Sostenibilidad Economica  
 
-![Tres](img/Tres.md)
+![Tres](img/Tres.png)
