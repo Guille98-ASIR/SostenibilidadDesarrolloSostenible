@@ -1,4 +1,4 @@
-## **¿Qué es la Agenda 2030 del Desarrollo Sostenible?**
+## **¿Qué es la Agenda 2030 del Desarrollo Sostenible y los ODS?**
 
 La adopción de la Agenda 2030 para el Desarrollo Sostenible por parte de la Asamblea General de la ONU es un hito crucial en la lucha global por un desarrollo equitativo y sostenible. 
 
