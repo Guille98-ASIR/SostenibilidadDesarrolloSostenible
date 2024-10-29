@@ -3,7 +3,7 @@
  
 1.1. ![Introducción](Introduccion.md) Ivan
 
-1.2. ![Sostenibilidad y desarrollo sostenible](SostenibilidadyDesarolloSostenible.md) Ivan
+1.2. ![Sostenibilidad y desarrollo sostenible](Sostenibilidad.md) Ivan
 
 1.3. ![¿Qué significa la sigla ASG?](ASG.md) Dani
 
