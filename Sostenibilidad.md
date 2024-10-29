@@ -15,3 +15,4 @@ En su vertiente ambiental, la sostenibilidad defiende que la naturaleza no es un
 
 Aspectos como el cuidado del medio ambiente, energias renovables, ahorro del agua, etc, contribuyen a lograr esta meta.
 
+### Sostenibilidad Social
