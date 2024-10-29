@@ -8,5 +8,9 @@ Aparece por primera vez en 1987 con la publicación del Informe Brundtland, que 
 
 ## ¿Cuantos Tipos Hay?
 
-Sostenibilidad Ambiental
+### Sostenibilidad Ambiental
+
+En su vertiente ambiental, la sostenibilidad defiende que la naturaleza no es una fuente ingotable de recursos y vela por su protección y uso racional.
+
+Aspectos como el cuidado del medio ambiente, energias renovables, ahorro del agua, etc, contribuyen a lograr esta meta.
 
