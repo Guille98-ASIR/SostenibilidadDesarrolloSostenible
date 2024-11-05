@@ -16,3 +16,8 @@ En su vertiente ambiental, la sostenibilidad defiende que la naturaleza no es un
 Aspectos como el cuidado del medio ambiente, energias renovables, ahorro del agua, etc, contribuyen a lograr esta meta.
 
 ### Sostenibilidad Social
+
+﻿
+
+En el plano social, la sostenibilidad fomenta el desarrollo de las personas, comunidades y culturas para conseguir un nivel global de calidad de vida, sanidad y educación
+adecuado y equitativo. La lucha por la igualdad de género, en especial en los países en desarrollo, es otro aspecto que durante los próximos años configurará las bases de la sostenibilidad social.
