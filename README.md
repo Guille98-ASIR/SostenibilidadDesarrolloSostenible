@@ -21,4 +21,9 @@
 
 Referencias
 https://www.acciona.com/es/desarrollo-sostenible/
+
+https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
+
+https://www.pactomundial.org/noticia/la-sostenibilidad-empresarial-desde-las-siglas-asg-o-esg/
+
 Autores
