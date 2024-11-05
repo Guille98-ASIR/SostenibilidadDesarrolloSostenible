@@ -43,3 +43,5 @@ La UE ha aprobado nuevas normas para la sostenibilidad de las empresas, para una
 **10.Políticas de transporte sostenible**
 
   ·Promueve el transporte público, apuesta por transporte eléctrico para reducir emisiones.
+
+  ![marconormativo](/img/marco.png)
