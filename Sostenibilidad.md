@@ -25,7 +25,7 @@ adecuado y equitativo. La lucha por la igualdad de género, en especial en los p
 
 ### Sostenibilidad Económica
 
-﻿
+﻿![economica](img/economica.png)
 
 La sostenibilidad también busca impulsar un crecimiento
 económico que genere riqueza equitativa sin perjudicar los recursos naturales. Una inversión y reparto igualitario de los recursos económicos permitirá potenciar los demás pilares de la sostenibilidad para lograr un desarrollo completo.
