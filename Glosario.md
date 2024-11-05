@@ -1,5 +1,4 @@
 
-No acabado
 
 ## Asamblea
 Es un órgano de reunión o deliberación en el que se congregan personas con un propósito común. En el contexto de organizaciones internacionales, como la Asamblea General de la ONU, es un foro donde se discuten temas globales y se toman decisiones de forma democrática. En el ámbito legislativo, se refiere al conjunto de representantes elegidos para tomar decisiones políticas.
