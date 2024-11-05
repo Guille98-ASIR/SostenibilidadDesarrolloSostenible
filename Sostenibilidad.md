@@ -21,3 +21,11 @@ Aspectos como el cuidado del medio ambiente, energias renovables, ahorro del agu
 
 En el plano social, la sostenibilidad fomenta el desarrollo de las personas, comunidades y culturas para conseguir un nivel global de calidad de vida, sanidad y educación
 adecuado y equitativo. La lucha por la igualdad de género, en especial en los países en desarrollo, es otro aspecto que durante los próximos años configurará las bases de la sostenibilidad social.
+
+
+### Sostenibilidad Económica
+
+﻿
+
+La sostenibilidad también busca impulsar un crecimiento
+económico que genere riqueza equitativa sin perjudicar los recursos naturales. Una inversión y reparto igualitario de los recursos económicos permitirá potenciar los demás pilares de la sostenibilidad para lograr un desarrollo completo.
