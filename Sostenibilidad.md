@@ -17,7 +17,7 @@ Aspectos como el cuidado del medio ambiente, energias renovables, ahorro del agu
 
 ### Sostenibilidad Social
 
-﻿
+﻿![social](img/social.jpg)
 
 En el plano social, la sostenibilidad fomenta el desarrollo de las personas, comunidades y culturas para conseguir un nivel global de calidad de vida, sanidad y educación
 adecuado y equitativo. La lucha por la igualdad de género, en especial en los países en desarrollo, es otro aspecto que durante los próximos años configurará las bases de la sostenibilidad social.
