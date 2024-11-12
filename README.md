@@ -29,6 +29,8 @@ https://www.pactomundial.org/noticia/la-sostenibilidad-empresarial-desde-las-sig
 
 https://www.pactomundial.org/noticia/6-leyes-y-directivas-sobre-sostenibilidad-que-afectaran-a-tu-empresa/
 
+https://copade.es/diez-pasos-para-medir-el-desempeno-en-sostenibilidad-de-las-empresas/
+
 Autores
 
 D.S.R
