@@ -27,6 +27,8 @@ https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
 
 https://www.pactomundial.org/noticia/la-sostenibilidad-empresarial-desde-las-siglas-asg-o-esg/
 
+https://www.pactomundial.org/noticia/6-leyes-y-directivas-sobre-sostenibilidad-que-afectaran-a-tu-empresa/
+
 Autores
 
 D.S.R
