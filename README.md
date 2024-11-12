@@ -21,7 +21,7 @@
 
 Referencias
 
-![Acciona](https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Fes%2Flogo%2Facciona-logo&psig=AOvVaw189CovcRGtmFXAl7I5GfOj&ust=1731500497029000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjnipLk1okDFQAAAAAdAAAAABAE)(https://www.acciona.com)
+https://www.acciona.com/es/desarrollo-sostenible/
 
 https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
 
