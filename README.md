@@ -35,6 +35,6 @@ Autores
 
 D.S.R
 
-I.B.L
+![I.B.L](https://github.com/IvanBL8/SostenibilidadDesarrolloSostenible)
 
 G.C.R
