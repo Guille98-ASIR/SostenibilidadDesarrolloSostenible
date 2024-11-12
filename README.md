@@ -21,7 +21,7 @@
 
 Referencias
 
-![Acciona](https://play.google.com/store/apps/details?id=es.tck.acciona&hl=es)(https://www.acciona.com/es/desarrollo-sostenible/)
+https://www.acciona.com/es/desarrollo-sostenible/
 
 https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
 
