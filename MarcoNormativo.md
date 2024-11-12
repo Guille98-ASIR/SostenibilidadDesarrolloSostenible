@@ -2,6 +2,12 @@
 
 La UE ha aprobado nuevas normas para la sostenibilidad de las empresas, para una mejor producción, mejores condiciones para los trabajadores, etc.
 
+**CSRD**
+
+----------
+
+La CSRD es una directiva de la UE que obliga a las empresas a informar de manera más clara y detallada sobre su impacto ambiental, social y de gobernanza (ESG). Entró en vigor en enero de 2023 y amplía las reglas anteriores, buscando mejorar la transparencia para que inversores y otros actores puedan evaluar los riesgos y oportunidades relacionados con la sostenibilidad. Las empresas deberán seguir las Normas Europeas de Información sobre Sostenibilidad (ESRS), alineándose con objetivos globales como el Pacto Verde Europeo y los ODS.
+
 ## **Las normas mas clave son:**
 
 **1.Acuerdo Verde Europeo**
