@@ -29,3 +29,6 @@ Simplemente es para saber si nuestra empresa sigue los objetivos marcados que de
 7.-Mantenerse al dia con las novedades en sostenibilidad 
 
 Estar atento a todas las noticias, ya que constantemente evolucionamos y descubrimos nuevas maneras para mejorar la sostenibilidad.
+
+
+![Empresa](img/empresas.jpg)
