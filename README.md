@@ -17,7 +17,7 @@
 
 ![Mapa conceptual](MapaConceptual.md) Falta
 
-![Glosario](Glosario.md) Revisar
+![Glosario](Glosario.md)
 
 Referencias
 
