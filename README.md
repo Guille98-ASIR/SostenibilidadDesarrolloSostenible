@@ -21,15 +21,15 @@
 
 Referencias
 
-![Acciona](https://www.acciona.com/es/desarrollo-sostenible/)
+https://www.acciona.com/es/desarrollo-sostenible/
 
-![Sustainable development](https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/)
+https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
 
-![Pacto Mundial Sostenibilidad Empresarial](https://www.pactomundial.org/noticia/la-sostenibilidad-empresarial-desde-las-siglas-asg-o-esg/)
+https://www.pactomundial.org/noticia/la-sostenibilidad-empresarial-desde-las-siglas-asg-o-esg/
 
-![Pacto Mundial Leyes y directivas](https://www.pactomundial.org/noticia/6-leyes-y-directivas-sobre-sostenibilidad-que-afectaran-a-tu-empresa/)
+https://www.pactomundial.org/noticia/6-leyes-y-directivas-sobre-sostenibilidad-que-afectaran-a-tu-empresa/
 
-![Copade](https://copade.es/diez-pasos-para-medir-el-desempeno-en-sostenibilidad-de-las-empresas/)
+https://copade.es/diez-pasos-para-medir-el-desempeno-en-sostenibilidad-de-las-empresas/
 
 Autores
 
