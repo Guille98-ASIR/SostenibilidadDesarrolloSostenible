@@ -33,7 +33,7 @@ https://copade.es/diez-pasos-para-medir-el-desempeno-en-sostenibilidad-de-las-em
 
 Autores
 
-D.S.R
+![D.S.R](https://github.com/JohnDSil/SostenibilidadDesarrolloSostenible)
 
 ![I.B.L](https://github.com/IvanBL8/SostenibilidadDesarrolloSostenible)
 
