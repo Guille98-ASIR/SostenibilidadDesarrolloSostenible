@@ -28,6 +28,9 @@ https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
 https://www.pactomundial.org/noticia/la-sostenibilidad-empresarial-desde-las-siglas-asg-o-esg/
 
 Autores
+
 D.S.R
+
 I.B.L
+
 G.C.R
