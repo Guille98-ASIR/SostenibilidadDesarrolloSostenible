@@ -13,9 +13,9 @@
 
 1.6.- ![Evaluación del desempeño en sostenibilidad de las empresas](Evaluacion.md) 
 
-![Conclusiones](Conclusiones.md) Falta
+![Conclusiones](Conclusiones.md)
 
-![Mapa conceptual](MapaConceptual.md) Falta
+![Mapa conceptual](MapaConceptual.md)
 
 ![Glosario](Glosario.md)
 
