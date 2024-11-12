@@ -21,7 +21,7 @@
 
 Referencias
 
-[Acciona](/img/vital.png)(https://www.acciona.com/es/desarrollo-sostenible/)
+https://www.acciona.com/es/desarrollo-sostenible/
 
 https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
 
