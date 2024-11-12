@@ -50,4 +50,4 @@ La CSRD es una directiva de la UE que obliga a las empresas a informar de manera
 
   ·Promueve el transporte público, apuesta por transporte eléctrico para reducir emisiones.
 
-  ![marconormativo](/img/marco.png)
+  ![marconormativo](/img/Marco.png)
