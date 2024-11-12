@@ -30,4 +30,5 @@ Simplemente es para saber si nuestra empresa sigue los objetivos marcados que de
 
 Estar atento a todas las noticias, ya que constantemente evolucionamos y descubrimos nuevas maneras para mejorar la sostenibilidad.
 
+
 ![empresa](/img/empresas.jpg)
